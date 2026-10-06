@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**ShareefS28/ShareefS28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="middle">
+  <b>
+    <font size="14">
+      Hi! 👋 My name is Shareef.
+    </font>
+  </b>
+  <br>
+  <img src="asset/donut.gif" alt="Spinning ASCII donut" width="800">
+  <br>
+  <b>
+    <font size="14">
+      DO WHATEVER YOU WANT,
+    </font>
+  </b>
+  <br>
+  <img src="asset/doit.gif" alt="JUST DO IT" width="350" align="middle">
+</p>
